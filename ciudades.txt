@@ -1,0 +1,4 @@
+ID	NOMBRE
+1	Palma
+2	Barcelona
+3	Madrid

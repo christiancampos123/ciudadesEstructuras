@@ -1,0 +1,3 @@
+C:/Users/christian.campos/Desktop/scriptsDeC/ciudadesEstructuras/cmake-build-debug/CMakeFiles/ciudadesEstructuras.dir
+C:/Users/christian.campos/Desktop/scriptsDeC/ciudadesEstructuras/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/christian.campos/Desktop/scriptsDeC/ciudadesEstructuras/cmake-build-debug/CMakeFiles/rebuild_cache.dir
